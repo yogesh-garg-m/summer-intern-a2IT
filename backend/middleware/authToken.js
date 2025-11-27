@@ -1,6 +1,5 @@
 const jwt = require('jsonwebtoken')
 const userModel = require('../models/userModel')
-
 async function authToken(req,res,next){
     try {
         const secretKey = process.env.TOKEN_SECRET_KEY

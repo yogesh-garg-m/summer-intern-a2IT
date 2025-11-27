@@ -11,7 +11,7 @@ function Copyright() {
           <span className="text-light">
             <a href="#">
               <i className="fas fa-copyright text-light me-2" />
-              Your Site Name
+              BiteAffair
             </a>
             , All right reserved.
           </span>
@@ -21,13 +21,9 @@ function Copyright() {
           {/*/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, *** /*/}
           {/*/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". *** /*/}
           Designed By{" "}
-          <a className="border-bottom" href="https://htmlcodex.com">
-            HTML Codex
+          <a className="border-bottom" href="https://github.com/yogesh-garg-m">
+            Yogesh Garg
           </a>{" "}
-          Distributed By{" "}
-          <a className="border-bottom" href="https://themewagon.com">
-            ThemeWagon
-          </a>
         </div>
       </div>
     </div>
